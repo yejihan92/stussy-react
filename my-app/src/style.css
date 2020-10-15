@@ -1,28 +1,23 @@
-#topmenu {
-  font-size: x-small;
-}
-
-#image1 {
+.image1 {
   margin-top: 10px;
+  margin-left: 110px;
   display: inline-block;
 }
 
-#image2 {
+.image2 {
   margin-left: 20px;
 }
 
-#image3 {
+.image3 {
   margin: 0 auto;
   display: block;
 }
 
-#image4 {
-  margin-top: 20px;
-}
 
 .ui.borderless.topmenu.menu {
   box-shadow: none;
   border: none;
+  font-size: x-small;
 }
 
 .footer-background {
