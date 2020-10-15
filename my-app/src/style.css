@@ -1,0 +1,39 @@
+#topmenu {
+  font-size: x-small;
+}
+
+#image1 {
+  margin-top: 10px;
+  display: inline-block;
+}
+
+#image2 {
+  margin-left: 20px;
+}
+
+#image3 {
+  margin: 0 auto;
+  display: block;
+}
+
+#image4 {
+  margin-top: 20px;
+}
+
+.ui.borderless.topmenu.menu {
+  box-shadow: none;
+  border: none;
+}
+
+.footer-background {
+  margin-top: 100px;
+  margin-bottom: 10px;
+}
+
+.ui.borderless.footer.menu {
+  float: right;
+  margin-right: 10px;
+  font-size: medium;
+  box-shadow: none;
+  border: none;
+}
